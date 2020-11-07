@@ -2,10 +2,11 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!43 &4300000
 Mesh:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Tongue
+  m_Name: Tongue_0
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -16,7 +17,7 @@ Mesh:
     firstVertex: 0
     vertexCount: 51
     localAABB:
-      m_Center: {x: -6.557646E-06, y: 0.05577913, z: 0.001389423}
+      m_Center: {x: -0.000006557646, y: 0.05577913, z: 0.001389423}
       m_Extent: {x: 0.0005537294, y: 0.000268545, z: 0.001069343}
   m_Shapes:
     vertices: []
@@ -24,15 +25,15 @@ Mesh:
     channels: []
     fullWeights: []
   m_BindPose: []
-  m_BoneNameHashes:
+  m_BoneNameHashes: 
   m_RootBoneNameHash: 0
   m_BonesAABB: []
   m_VariableBoneCountWeights:
-    m_Data:
+    m_Data: 
   m_MeshCompression: 0
   m_IsReadable: 1
-  m_KeepVertices: 0
-  m_KeepIndices: 0
+  m_KeepVertices: 1
+  m_KeepIndices: 1
   m_IndexFormat: 0
   m_IndexBuffer: 000001000200030004000500040006000500070005000600060008000700080006000400080009000700090008000a000b0009000a000a000c000b000d000b000c0008000e000a000e000c000a0004000f0008000e0008000f000f00040010000f0010000e001100100004001100120010000d000c0013000e0013000c00130014000d00140015000d0013000e001600100016000e0016001700130018001000120016001000180012001900180018001900160017001600190019001a0017001b001c001d001d001c001e001e001c001f001c0020001f001f0021001e001d001e00210022001f002000220021001f002000230022002300240022002300250024002500260024002100220027002200240027002800240026002800270024002900280026001d0021002a0027002a002100270028002b002b002a0027002b0028002c0028002d002c002c002e002b002a002b002e002c002f002e002a002e002f002a0030001d0030002a002f0031001d0030002f0032003000320031003000
   m_VertexData:
@@ -102,63 +103,63 @@ Mesh:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_UV:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_Normals:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_Tangents:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_Weights:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_NormalSigns:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_TangentSigns:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_FloatColors:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_BoneIndices:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_Triangles:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_UVInfo: 0
   m_LocalAABB:
-    m_Center: {x: -6.557646E-06, y: 0.05577913, z: 0.001389423}
+    m_Center: {x: -0.000006557646, y: 0.05577913, z: 0.001389423}
     m_Extent: {x: 0.0005537294, y: 0.000268545, z: 0.001069343}
   m_MeshUsageFlags: 16
-  m_BakedConvexCollisionMesh:
-  m_BakedTriangleCollisionMesh:
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
   m_MeshMetrics[0]: 1
   m_MeshMetrics[1]: 1
   m_MeshOptimizationFlags: -1
   m_StreamData:
     offset: 0
     size: 0
-    path:
+    path: 

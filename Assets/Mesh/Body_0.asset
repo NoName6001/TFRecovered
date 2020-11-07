@@ -2,10 +2,11 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!43 &4300000
 Mesh:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Body
+  m_Name: Body_0
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -16,7 +17,7 @@ Mesh:
     firstVertex: 0
     vertexCount: 937
     localAABB:
-      m_Center: {x: 3.49069E-05, y: 0.01380346, z: 0.000247912}
+      m_Center: {x: 0.0000349069, y: 0.01380346, z: 0.000247912}
       m_Extent: {x: 0.002023809, y: 0.002908302, z: 0.002304521}
   - serializedVersion: 2
     firstByte: 9948
@@ -26,7 +27,7 @@ Mesh:
     firstVertex: 937
     vertexCount: 396
     localAABB:
-      m_Center: {x: 1.221197E-06, y: -0.001440357, z: -0.0007978081}
+      m_Center: {x: 0.000001221197, y: -0.001440357, z: -0.0007978081}
       m_Extent: {x: 0.003886694, y: 0.00339778, z: 0.002568287}
   - serializedVersion: 2
     firstByte: 13398
@@ -36,7 +37,7 @@ Mesh:
     firstVertex: 1024
     vertexCount: 966
     localAABB:
-      m_Center: {x: -1.650956E-05, y: 0.005835356, z: 0.0002378152}
+      m_Center: {x: -0.00001650956, y: 0.005835356, z: 0.0002378152}
       m_Extent: {x: 0.004775655, y: 0.005607011, z: 0.002847311}
   - serializedVersion: 2
     firstByte: 20742
@@ -46,7 +47,7 @@ Mesh:
     firstVertex: 1990
     vertexCount: 703
     localAABB:
-      m_Center: {x: 1.015142E-07, y: 0.008730995, z: -0.0006283391}
+      m_Center: {x: 0.0000001015142, y: 0.008730995, z: -0.0006283391}
       m_Extent: {x: 0.01888369, y: 0.00140165, z: 0.001445188}
   - serializedVersion: 2
     firstByte: 26730
@@ -56,7 +57,7 @@ Mesh:
     firstVertex: 2693
     vertexCount: 168
     localAABB:
-      m_Center: {x: 3.020004E-05, y: -0.002483635, z: -0.0005289138}
+      m_Center: {x: 0.00003020004, y: -0.002483635, z: -0.0005289138}
       m_Extent: {x: 0.0003711087, y: 0.0009634539, z: 0.001246902}
   - serializedVersion: 2
     firstByte: 27978
@@ -66,7 +67,7 @@ Mesh:
     firstVertex: 2861
     vertexCount: 578
     localAABB:
-      m_Center: {x: -1.08215E-05, y: -0.01351849, z: 4.034129E-05}
+      m_Center: {x: -0.0000108215, y: -0.01351849, z: 0.00004034129}
       m_Extent: {x: 0.003898737, y: 0.009624812, z: 0.002478048}
   m_Shapes:
     vertices: []
@@ -74,11 +75,11 @@ Mesh:
     channels: []
     fullWeights: []
   m_BindPose: []
-  m_BoneNameHashes:
+  m_BoneNameHashes: 
   m_RootBoneNameHash: 0
   m_BonesAABB: []
   m_VariableBoneCountWeights:
-    m_Data:
+    m_Data: 
   m_MeshCompression: 0
   m_IsReadable: 1
   m_KeepVertices: 0
@@ -152,63 +153,63 @@ Mesh:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_UV:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_Normals:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_Tangents:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_Weights:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_NormalSigns:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_TangentSigns:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_FloatColors:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_BoneIndices:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_Triangles:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_UVInfo: 0
   m_LocalAABB:
-    m_Center: {x: 1.015142E-07, y: -0.00321577, z: -0.0001404847}
+    m_Center: {x: 0.0000001015142, y: -0.00321577, z: -0.0001404847}
     m_Extent: {x: 0.01888369, y: 0.01992753, z: 0.00322561}
   m_MeshUsageFlags: 16
-  m_BakedConvexCollisionMesh:
-  m_BakedTriangleCollisionMesh:
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
   m_MeshMetrics[0]: 1
   m_MeshMetrics[1]: 1
   m_MeshOptimizationFlags: -1
   m_StreamData:
     offset: 0
     size: 0
-    path:
+    path: 

@@ -2,10 +2,11 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!43 &4300000
 Mesh:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Panties
+  m_Name: Panties_0
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -24,15 +25,15 @@ Mesh:
     channels: []
     fullWeights: []
   m_BindPose: []
-  m_BoneNameHashes:
+  m_BoneNameHashes: 
   m_RootBoneNameHash: 0
   m_BonesAABB: []
   m_VariableBoneCountWeights:
-    m_Data:
+    m_Data: 
   m_MeshCompression: 0
   m_IsReadable: 1
-  m_KeepVertices: 0
-  m_KeepIndices: 0
+  m_KeepVertices: 1
+  m_KeepIndices: 1
   m_IndexFormat: 0
   m_IndexBuffer: 00000100020003000400050003000500060006000700030008000300070005000900060005000a0009000b00060009000b00070006000b0009000c00080007000d000b000d0007000e000b000c000e000d000b000e000c000f00100008000d001100080010000d00120010001100100012000e0012000d0013001100120014000e000f0012000e00140013001200150012001400150016001300150016001700130014000f0018001800150014001800160015000f001900180019001600180019001a0016001b001a0019001c001a001b001c001b001d001d001e001c001e001f001c001a001c001f001e0020001f001a001f0021001a00210022001a00220023001a0023001600160023002400160024001700170024002500170025002600270028002900270029002a002b002a0029002b002c002a002d002c002b002e002a002c002e002f002a0030002e002c00310030002c0031002c003200330031003200330032003400350033003400350034003600370035003600320038003400380036003400390032002c003200390038002d003a002c0039002c003a00370036003b003c0037003b003c003b003d0038003e0036003e003b0036003d003b003f003e003f003b003d003f0040003f00410040003e0041003f00420040004100430041003e0043003e0038003900430038003900440043003a00440039004500430044004600450044003a00470044004600440047002d0047003a002d00480047004900460047004a00470048004a00490047004a004b0049004a004c004b004d0049004b00
   m_VertexData:
@@ -102,63 +103,63 @@ Mesh:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_UV:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_Normals:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_Tangents:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_Weights:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_NormalSigns:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_TangentSigns:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_FloatColors:
       m_NumItems: 0
       m_Range: 0
       m_Start: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_BoneIndices:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_Triangles:
       m_NumItems: 0
-      m_Data:
+      m_Data: 
       m_BitSize: 0
     m_UVInfo: 0
   m_LocalAABB:
     m_Center: {x: -0.0001014222, y: 0.03653014, z: -0.0004809791}
     m_Extent: {x: 0.004059956, y: 0.005004318, z: 0.004245383}
   m_MeshUsageFlags: 16
-  m_BakedConvexCollisionMesh:
-  m_BakedTriangleCollisionMesh:
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
   m_MeshMetrics[0]: 1
   m_MeshMetrics[1]: 1
   m_MeshOptimizationFlags: -1
   m_StreamData:
     offset: 0
     size: 0
-    path:
+    path: 
