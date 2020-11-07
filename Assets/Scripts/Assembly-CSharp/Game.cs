@@ -1,0 +1,51 @@
+using UnityEngine;
+using System.Collections.Generic;
+using UnityEngine.UI;
+using TMPro;
+
+public class Game : MonoBehaviour
+{
+	public List<string> m_girls;
+	public Girl m_girl;
+	public Girl m_male;
+	public List<Girl> m_humans;
+	public MainCamera m_camera;
+	public AdvancedCollider m_collider;
+	public List<string> m_triggers;
+	public SoxAtkJiggleBoneSimple m_jiggleControl;
+	public bool m_isDragging;
+	public float m_clickTimer;
+	public Vector3 m_aimPoint;
+	public Camera m_uvCamera;
+	public RenderTexture m_depthTexture;
+	public Animation blackscreen;
+	public List<Material> m_materials;
+	public List<AnimationClip> clips;
+	public List<AudioClip> m_swallowSounds;
+	public Mesh m_gizmoMesh;
+	public List<Fluid> m_fluids;
+	public List<Fluid> m_fluidPool;
+	public List<FluidString> m_fluidStrings;
+	public List<FluidString> m_fStringPool;
+	public List<Fluid_UV> m_uvFluidPool;
+	public FluidSmear m_mascaraSmear;
+	public InputField m_consoleIF;
+	public AudioSource m_musicAS;
+	public GameObject m_instruction;
+	public TextMeshPro m_notes;
+	public Material defaultParticleUV;
+	public int renderTextureSize;
+	public int m_fluidMax;
+	public int m_fStringMax;
+	public float fluidSeparation;
+	public float fluidDestroyTime;
+	public float fluidUVTime;
+	public bool fluidSpheres;
+	public int m_fluidRenderTextureSize;
+	public float m_mouthWetRadius;
+	public float m_stringMinLength;
+	public float m_stringEndIgnore;
+	public bool clearUV;
+	public bool m_pause;
+	public int m_shotPresetId;
+}

@@ -1,0 +1,1801 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7cb433a6ce657c64d9fcb08f17004859, type: 3}
+  m_Name: Like_Thankyou_lipSync
+  m_EditorClassIdentifier:
+  entries:
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.7429073
+    - 0.2570927
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.8273662
+    - 0.1666171
+    - 0
+    - 0
+    - 0
+    - 0.006016747
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.6928151
+    - 0.2249078
+    - 0
+    - 0
+    - 0
+    - 0.04369563
+    - 0
+    - 0
+    - 0.03858151
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.7807879
+    - 0.1673807
+    - 0
+    - 0
+    - 0
+    - 0.02752652
+    - 0
+    - 0
+    - 0.02430483
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.861905
+    - 0.1054432
+    - 0
+    - 0
+    - 0
+    - 0.01734062
+    - 0
+    - 0
+    - 0.01531108
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9130057
+    - 0.06642509
+    - 0
+    - 0
+    - 0
+    - 0.01092391
+    - 0
+    - 0
+    - 0.009645378
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9565028
+    - 0.03321254
+    - 0
+    - 0
+    - 0
+    - 0.005461954
+    - 0
+    - 0
+    - 0.004822689
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9725985
+    - 0.02092259
+    - 0
+    - 0
+    - 0
+    - 0.003440815
+    - 0
+    - 0
+    - 0.003038104
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9827381
+    - 0.01318041
+    - 0
+    - 0
+    - 0
+    - 0.002167578
+    - 0
+    - 0
+    - 0.001913885
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9891257
+    - 0.008303136
+    - 0
+    - 0
+    - 0
+    - 0.001365489
+    - 0
+    - 0
+    - 0.001205672
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9931496
+    - 0.005230648
+    - 0
+    - 0
+    - 0
+    - 0.0008602039
+    - 0
+    - 0
+    - 0.0007595259
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9956845
+    - 0.003295101
+    - 0
+    - 0
+    - 0
+    - 0.0005418945
+    - 0
+    - 0
+    - 0.0004784713
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9972814
+    - 0.002075784
+    - 0
+    - 0
+    - 0
+    - 0.0003413721
+    - 0
+    - 0
+    - 0.0003014181
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9982874
+    - 0.001307662
+    - 0
+    - 0
+    - 0
+    - 0.000215051
+    - 0
+    - 0
+    - 0.0001898815
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9991437
+    - 0.0006538309
+    - 0
+    - 0
+    - 0
+    - 0.0001075255
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9994606
+    - 0.0004118877
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9996602
+    - 0.000259473
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9997859
+    - 0.0001634577
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9998651
+    - 0.0001029719
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999151
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999465
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999732
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999831
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9545093
+    - 0.04548014
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.8564035
+    - 0.02865069
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.1149392
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.7179206
+    - 0.06195006
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.2201251
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.5937929
+    - 0.03902609
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.1324581
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.05523751
+    - 0.1794828
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.7441056
+    - 0.0245849
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.08344335
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.03479745
+    - 0.1130671
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.8387966
+    - 0.01548751
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.05256602
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.02192102
+    - 0.0712278
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9193983
+    - 0.007743757
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.02628301
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.01096051
+    - 0.0356139
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9492241
+    - 0.004878261
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.01655726
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.006904688
+    - 0.02243535
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9680132
+    - 0.003073112
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.01043042
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.004349681
+    - 0.01413339
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9798496
+    - 0.001935939
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.006570752
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.002740128
+    - 0.008903475
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.987306
+    - 0.001219565
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.004139314
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.001726172
+    - 0.005608838
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9920033
+    - 0.000768278
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.002607605
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.00108742
+    - 0.003533346
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9949624
+    - 0.0004839848
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.001642688
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.0006850319
+    - 0.002225869
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9974812
+    - 0.0002419924
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.000821344
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.0003425159
+    - 0.001112934
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9984133
+    - 0.0001524457
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.0005174143
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.0002157715
+    - 0.0007011047
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9990004
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.0003259506
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.0001359275
+    - 0.0004416683
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9993703
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.000205336
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.0002782336
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9996033
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.0001293536
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.0001752762
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9997501
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.0001104171
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9998426
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999008
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999504
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999688
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999803
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999876
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999922
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999951
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999969
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999985
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.999999
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999994
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999996
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999998
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999998
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999999
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9999999
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.9055518
+    - 0.05013504
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.04431311
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.7969986
+    - 0.0315831
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.1714183
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.7779005
+    - 0.05616185
+    - 0
+    - 0.05795091
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.1079868
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.4900466
+    - 0.1941541
+    - 0
+    - 0.09107813
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.05278065
+    - 0.1039132
+    - 0
+    - 0.0680274
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.30871
+    - 0.3385106
+    - 0
+    - 0.05737563
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.187088
+    - 0.06546119
+    - 0
+    - 0.04285458
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.1944751
+    - 0.2132483
+    - 0
+    - 0.03614438
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.3175286
+    - 0.2116069
+    - 0
+    - 0.02699669
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.1225116
+    - 0.134338
+    - 0
+    - 0.02276953
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.488245
+    - 0.2151289
+    - 0
+    - 0.01700685
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.06125582
+    - 0.06716901
+    - 0
+    - 0.01138477
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.6305987
+    - 0.2210883
+    - 0
+    - 0.008503425
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.03858875
+    - 0.04231383
+    - 0
+    - 0.007171954
+    - 0
+    - 0.2300632
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.3972523
+    - 0.2792532
+    - 0
+    - 0.005356822
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.02430939
+    - 0.02665604
+    - 0
+    - 0.004518047
+    - 0
+    - 0.5149702
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.2502533
+    - 0.1759185
+    - 0
+    - 0.003374587
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.01531396
+    - 0.01679225
+    - 0
+    - 0.002846192
+    - 0
+    - 0.6944504
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.1576497
+    - 0.1108217
+    - 0
+    - 0.002125856
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.009647188
+    - 0.01057846
+    - 0
+    - 0.001792988
+    - 0
+    - 0.8075158
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.09931307
+    - 0.06981331
+    - 0
+    - 0.001339206
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.006077347
+    - 0.09532437
+    - 0
+    - 0.001129512
+    - 0
+    - 0.7185403
+    - 0
+    - 0
+    - 0.07154194
+    - 0
+    - 0
+    - 0.06256332
+    - 0.04397963
+    - 0
+    - 0.0008436466
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.003828489
+    - 0.0600506
+    - 0
+    - 0.0007115479
+    - 0.05586855
+    - 0.7668229
+    - 0
+    - 0
+    - 0.0450686
+    - 0
+    - 0
+    - 0.03941242
+    - 0.02770543
+    - 0
+    - 0.0005314641
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.002411797
+    - 0.1111196
+    - 0
+    - 0.0004482471
+    - 0.1076261
+    - 0.5796516
+    - 0
+    - 0
+    - 0.1561262
+    - 0
+    - 0
+    - 0.02482827
+    - 0.01745333
+    - 0
+    - 0.0003348014
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.001205898
+    - 0.05555978
+    - 0
+    - 0.0002241235
+    - 0.1044815
+    - 0.2898258
+    - 0
+    - 0.375003
+    - 0.1523917
+    - 0
+    - 0
+    - 0.01241413
+    - 0.008726664
+    - 0
+    - 0.0001674007
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.0007596684
+    - 0.03500047
+    - 0
+    - 0.000141189
+    - 0.1092749
+    - 0.273914
+    - 0
+    - 0.4714856
+    - 0.09600078
+    - 0
+    - 0
+    - 0.007820414
+    - 0.005497454
+    - 0
+    - 0.0001054558
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.0004785611
+    - 0.02204891
+    - 0
+    - 0
+    - 0.0688389
+    - 0.2696894
+    - 0
+    - 0.3643366
+    - 0.0604767
+    - 0
+    - 0
+    - 0.004926552
+    - 0.209049
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.0003014746
+    - 0.01388995
+    - 0
+    - 0
+    - 0.04336579
+    - 0.2597597
+    - 0
+    - 0.2295177
+    - 0.03809793
+    - 0
+    - 0
+    - 0.003103533
+    - 0.4118661
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.0001899171
+    - 0.008750117
+    - 0
+    - 0
+    - 0.02731874
+    - 0.1636384
+    - 0
+    - 0.1445871
+    - 0.02400019
+    - 0
+    - 0
+    - 0.001955104
+    - 0.6294988
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.0001196403
+    - 0.005512229
+    - 0
+    - 0
+    - 0.01720973
+    - 0.1030857
+    - 0
+    - 0.09108414
+    - 0.01511917
+    - 0
+    - 0
+    - 0.001231638
+    - 0.7665989
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0
+    - 0.003472487
+    - 0
+    - 0
+    - 0.01084145
+    - 0.06493993
+    - 0
+    - 0.05737941
+    - 0.009524483
+    - 0
+    - 0
+    - 0.0007758833
+    - 0.8529665
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0
+    - 0.001736243
+    - 0
+    - 0
+    - 0.005420724
+    - 0.08529925
+    - 0
+    - 0.02868971
+    - 0.004762242
+    - 0
+    - 0
+    - 0.0003879417
+    - 0.8736539
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0
+    - 0.001093765
+    - 0
+    - 0
+    - 0.003414842
+    - 0.1943845
+    - 0
+    - 0.01807338
+    - 0.003000024
+    - 0
+    - 0
+    - 0.0002443879
+    - 0.7797577
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0
+    - 0.0006890286
+    - 0
+    - 0
+    - 0.002151216
+    - 0.1713985
+    - 0
+    - 0.01138552
+    - 0.001889897
+    - 0
+    - 0
+    - 0.05847967
+    - 0.7539864
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.1945656
+    - 0.0004340608
+    - 0
+    - 0
+    - 0.001355181
+    - 0.1500598
+    - 0
+    - 0.007172427
+    - 0.00119056
+    - 0
+    - 0.07678632
+    - 0.03683988
+    - 0.5315837
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.4584645
+    - 0.0002734412
+    - 0
+    - 0
+    - 0.0008537105
+    - 0.09453174
+    - 0
+    - 0.004518345
+    - 0.0007500061
+    - 0
+    - 0.08251603
+    - 0.02320767
+    - 0.3348767
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.658854
+    - 0.0001722571
+    - 0
+    - 0
+    - 0.0005378039
+    - 0.05955127
+    - 0
+    - 0.002846379
+    - 0.0004724742
+    - 0
+    - 0.05198184
+    - 0.01461992
+    - 0.2109591
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.7850915
+    - 0.0001085152
+    - 0
+    - 0
+    - 0.0003387952
+    - 0.03751495
+    - 0
+    - 0.001793107
+    - 0.0002976401
+    - 0
+    - 0.03274651
+    - 0.00920997
+    - 0.1328959
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.8646161
+    - 0
+    - 0
+    - 0
+    - 0.0002134276
+    - 0.02363294
+    - 0
+    - 0.001129586
+    - 0.0001875015
+    - 0
+    - 0.02062901
+    - 0.005801918
+    - 0.08371918
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.8786265
+    - 0
+    - 0
+    - 0
+    - 0.0001067138
+    - 0.01181647
+    - 0
+    - 0.0005647932
+    - 0
+    - 0
+    - 0.0103145
+    - 0.002900959
+    - 0.09554113
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.8486454
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.007443908
+    - 0
+    - 0.0003557974
+    - 0
+    - 0.07489407
+    - 0.006497731
+    - 0.00182749
+    - 0.06018715
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.6528445
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.04076653
+    - 0
+    - 0.0002241383
+    - 0
+    - 0.2244955
+    - 0.004093314
+    - 0.001151246
+    - 0.07633124
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.6049216
+    - 0.1037476
+    - 0
+    - 0
+    - 0
+    - 0.02568131
+    - 0
+    - 0.0001411983
+    - 0
+    - 0.2140599
+    - 0.002578626
+    - 0.0007252397
+    - 0.04808567
+    - 0
+    - 0
+    laughterScore: 0
+  - frameNumber: 1
+    frameDelay: 80
+    Visemes:
+    - 0.7511162
+    - 0.06535687
+    - 0
+    - 0
+    - 0
+    - 0.01617821
+    - 0
+    - 0
+    - 0
+    - 0.1348493
+    - 0.001624433
+    - 0.0004568724
+    - 0.03029207
+    - 0
+    - 0
+    laughterScore: 0
+  length: 2.006667
