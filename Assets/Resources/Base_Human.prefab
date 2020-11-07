@@ -5362,7 +5362,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1373834167497117}
   m_Enabled: 0
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9f484de7525c95d4fa3c77aa85a10c79, type: 3}
+  m_Script: {fileID: 11500000, guid: 82f49053b9b703e4cbb1c6e76a563270, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   ControlPoints:
@@ -5425,7 +5425,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1669290324363937}
   m_Enabled: 0
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b1b623c67f799245bad8c8a3b4cc62a, type: 3}
+  m_Script: {fileID: 11500000, guid: 1f3c8d58ac75eab43bd8d07d598ce5bd, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   m_AutoBakeOrientation: 0
@@ -5489,7 +5489,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1663122131389220}
   m_Enabled: 0
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b1b623c67f799245bad8c8a3b4cc62a, type: 3}
+  m_Script: {fileID: 11500000, guid: 1f3c8d58ac75eab43bd8d07d598ce5bd, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   m_AutoBakeOrientation: 0
@@ -5554,7 +5554,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1299949134306613}
   m_Enabled: 0
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b1b623c67f799245bad8c8a3b4cc62a, type: 3}
+  m_Script: {fileID: 11500000, guid: 1f3c8d58ac75eab43bd8d07d598ce5bd, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   m_AutoBakeOrientation: 0
@@ -5618,7 +5618,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1912936721278044}
   m_Enabled: 0
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5b1b623c67f799245bad8c8a3b4cc62a, type: 3}
+  m_Script: {fileID: 11500000, guid: 1f3c8d58ac75eab43bd8d07d598ce5bd, type: 3}
   m_Name:
   m_EditorClassIdentifier:
   m_AutoBakeOrientation: 0
