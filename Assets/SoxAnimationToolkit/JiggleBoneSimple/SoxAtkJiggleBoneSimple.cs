@@ -74,6 +74,11 @@ public class SoxAtkJiggleBoneSimple : MonoBehaviour
     // Tentacle에서 지글본의 헬퍼 노드들을 인식하려면 지글본의 초기화는 Awake에서 하고 텐타클의 초기화는 Start에서 한다.
     void Awake()
     {
+		OnAwake();
+	}
+
+	public void OnAwake()
+	{
         if (m_jiggleBoneAllSearched == false)
         {
             m_jiggleBoneAll = FindObjectsOfType<SoxAtkJiggleBoneSimple>();
@@ -254,6 +259,11 @@ public class SoxAtkJiggleBoneSimple : MonoBehaviour
     }
 
     void Update()
+	{
+		UpdateBone();
+	}
+
+	public void UpdateBone()
     {
         // 헤드인 경우에만 tree를 업데이트 한다.
         if (m_ifHead)

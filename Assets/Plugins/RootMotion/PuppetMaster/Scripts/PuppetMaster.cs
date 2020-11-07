@@ -461,7 +461,7 @@ namespace RootMotion.Dynamics {
 			return FindTargetRootRecursive(t.parent);
 		}
 
-		private void Initiate() {
+		public void Initiate() {
 			initiated = false;
 
 			// Find the target root
@@ -578,7 +578,7 @@ namespace RootMotion.Dynamics {
 			return false;
 		}
 
-		protected virtual void FixedUpdate() {
+		public virtual void FixedUpdate() {
             if (!initiated) return;
 			if (muscles.Length <= 0) return;
 
@@ -650,7 +650,7 @@ namespace RootMotion.Dynamics {
 			if (updateMode == UpdateMode.AnimatePhysics) FixTargetTransforms();
 		}
 
-		protected virtual void Update() {
+		public virtual void Update() {
 			if (!initiated) return;
 			if (muscles.Length <= 0) return;
 
@@ -665,7 +665,7 @@ namespace RootMotion.Dynamics {
 			FixTargetTransforms();
 		}
 
-        protected virtual void LateUpdate() {
+        public virtual void LateUpdate() {
             if (muscles.Length <= 0) return;
 
 			OnLateUpdate();

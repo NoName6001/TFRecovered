@@ -32,6 +32,8 @@ namespace FluffyUnderware.Curvy
         public const string DOCROOT = WEBROOT+"documentation/";
         public const string DOCLINK = WEBROOT+"doclink/"+VERSIONSHORT+"/";
 
+		public Girl m_girl;
+
         #region ### Serialized fields ###
         
         #region --- General ---
@@ -1349,6 +1351,54 @@ namespace FluffyUnderware.Curvy
         }
 
         /// <summary>
+        /// Inserts a Control Point after a given Control Point
+        /// </summary>
+        /// <remarks>If you add several Control Points in a row, just refresh the last one!</remarks>
+        /// <param name="controlPoint">an ancestor Control Point. If null, the CP will added at the end</param>
+        /// <returns>the new Control Point</returns>
+        public CurvySplineSegment InsertAfter(CurvySplineSegment controlPoint, CurvySplineSegment cp)
+        {
+            if (!OnBeforeControlPointAddEvent(new CurvyControlPointEventArgs(this,this,controlPoint,CurvyControlPointEventArgs.ModeEnum.AddAfter)).Cancel)
+            {
+                GameObject go = cp.gameObject;
+
+                go.layer = gameObject.layer;
+                go.transform.SetParent(transform);
+                int idx = ControlPoints.Count;
+                
+                if (controlPoint)
+                {
+                    if (controlPoint.IsValidSegment)
+                        cp.transform.localPosition=controlPoint.Interpolate(0.5f);
+                    else if (controlPoint.NextTransform)
+                        go.transform.position = Vector3.Lerp(controlPoint.NextTransform.position, controlPoint.transform.position, 0.5f);
+
+                    idx = controlPoint.ControlPointIndex + 1;
+
+                }
+
+                ControlPoints.Insert(idx, cp);
+                SyncHierarchyFromSpline();
+
+                cp.AutoHandleDistance = AutoHandleDistance;
+                
+                if (controlPoint)
+                    controlPoint.SetDirty();
+                cp.SetDirty();
+                SetDirty(cp.PreviousControlPoint);
+
+                mLastCPCount++;
+
+                var e = new CurvyControlPointEventArgs(this,this, cp,CurvyControlPointEventArgs.ModeEnum.AddAfter);
+                OnAfterControlPointAddEvent(e);
+                OnAfterControlPointChangesEvent(e);
+                return cp;
+            }
+            else
+                return null;
+        }
+
+        /// <summary>
         /// Removes all control points.
         /// </summary>
         public override void Clear()
@@ -2432,6 +2482,11 @@ namespace FluffyUnderware.Curvy
 #if UNITY_EDITOR
         public static int _newSelectionInstanceIDINTERNAL; // Editor Bridge helper to determine new selection after object deletion
 #endif
+
+		public void DoUpdate()
+		{
+			doUpdate();
+		}
 
         void doUpdate()
         {

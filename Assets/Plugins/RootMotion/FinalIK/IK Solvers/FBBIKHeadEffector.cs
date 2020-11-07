@@ -118,6 +118,10 @@ namespace RootMotion.FinalIK {
 
 		// Register to get messages from the FBBIK
 		void Start() {
+			Init();
+		}
+
+		public void Init() {
 			ik.solver.OnPreRead += OnPreRead;
 			ik.solver.OnPreIteration += Iterate;
 			ik.solver.OnPostUpdate += OnPostUpdate;

@@ -29,6 +29,7 @@ namespace FluffyUnderware.Curvy
     [HelpURL(CurvySpline.DOCLINK + "curvysplinesegment")]
     public class CurvySplineSegment : MonoBehaviour, IComparable, IPoolable
     {
+		public Girl m_girl;
 
         #region ### Serialized Fields ###
 

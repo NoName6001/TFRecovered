@@ -85,7 +85,9 @@ namespace RootMotion.Dynamics {
 			
 			if (r.spine == null) o.spine = false;
 			if (r.chest == null) o.chest = false;
-			
+
+			o.spine = (r.spine != null);
+
 			// If chest bone is too high
 			if (o.chest && Vector3.Dot(r.root.up, r.chest.position - GetUpperArmCentroid(r)) > 0f) {
 				o.chest = false;
