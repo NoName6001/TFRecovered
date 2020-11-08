@@ -45,6 +45,7 @@ The game uses a number of unity packages, some of which aren't free.
 The one that have been found so far:
 - [Curvy Splines](https://assetstore.unity.com/packages/tools/utilities/curvy-splines-7038) (with modifications to the source code)
 - [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290)
+- [FXAA](https://assetstore.unity.com/packages/vfx/shaders/fullscreen-camera-effects/fxaa-fast-approximate-anti-aliasing-3590#content) (free)
 - [Human Shader Pack](https://assetstore.unity.com/packages/vfx/shaders/human-shader-pack-135145) (maybe, shader names are oddly similar)
 - [Magica Cloth](https://assetstore.unity.com/packages/tools/physics/magica-cloth-160144) (seen in DnSpy, but doesn't seem to be used in code)
 - [MoonSharp](https://assetstore.unity.com/packages/tools/moonsharp-33776) (free) (seen in DnSpy, but doesn't to be used in code)
