@@ -38,6 +38,8 @@ Prefabs, scenes and scriptable objects reference the scripts they need by their 
 Reimporting the original packages (with the correct package version) should be relatively painless, and by using [Unity-GUID-Remapper](https://github.com/wafflehammer/Unity-GUID-Remapper---hxrmn) we can fix the references to the reimported scripts.  
 We don't know which version of the packages were used, so finding compatible packages is a bit of trial and error, and may require to make some changes in the code. (Some alteration of the packages source code seems to have been made by the original creator anyway)  
 
+The issue with shaders is that they are not decompiled by the recovery process of UtinyRipper.  
+A promissing tool called [DXDecompiler](https://github.com/spacehamster/DXDecompiler) is in the works, but isn't done yet.
 
 ## Packages used by the game
 
