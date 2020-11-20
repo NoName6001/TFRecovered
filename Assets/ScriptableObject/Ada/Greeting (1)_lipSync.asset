@@ -2,6 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!114 &11400000
 MonoBehaviour:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -10,7 +11,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 354250b5dc6a14f49b541724e9dd3c37, type: 3}
   m_Name: Greeting (1)_lipSync
-  m_EditorClassIdentifier:
+  m_EditorClassIdentifier: 
   entries:
   - frameNumber: 2
     frameDelay: 0
@@ -1022,7 +1023,7 @@ MonoBehaviour:
   - frameNumber: 55
     frameDelay: 0
     Visemes:
-    - 8.470079E-05
+    - 0.00008470079
     - 0.2552939
     - 0.0009949583
     - 0.001189898
@@ -1041,7 +1042,7 @@ MonoBehaviour:
   - frameNumber: 56
     frameDelay: 0
     Visemes:
-    - 5.950755E-05
+    - 0.00005950755
     - 0.4020765
     - 0.0007727615
     - 0.0008373743
@@ -1060,7 +1061,7 @@ MonoBehaviour:
   - frameNumber: 57
     frameDelay: 0
     Visemes:
-    - 4.34542E-05
+    - 0.0000434542
     - 0.5573263
     - 0.000689948
     - 0.000896715

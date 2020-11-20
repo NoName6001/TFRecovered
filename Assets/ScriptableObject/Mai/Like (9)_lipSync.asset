@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 354250b5dc6a14f49b541724e9dd3c37, type: 3}
-  m_Name: Like (9)_lipSync_0
+  m_Name: Like (9)_lipSync
   m_EditorClassIdentifier: 
   entries:
   - frameNumber: 2
@@ -1834,7 +1834,7 @@ MonoBehaviour:
     - 0.002063613
     - 0.0003731415
     - 0.01803089
-    - 7.765258E-05
+    - 0.00007765258
     - 0.211961
     laughterScore: 0
   - frameNumber: 98
@@ -1853,7 +1853,7 @@ MonoBehaviour:
     - 0.002399646
     - 0.0003949422
     - 0.01363996
-    - 7.840668E-05
+    - 0.00007840668
     - 0.1485651
     laughterScore: 0
   - frameNumber: 99

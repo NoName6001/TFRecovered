@@ -2,6 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!114 &11400000
 MonoBehaviour:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -10,7 +11,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 354250b5dc6a14f49b541724e9dd3c37, type: 3}
   m_Name: Dislike (8)_lipSync
-  m_EditorClassIdentifier:
+  m_EditorClassIdentifier: 
   entries:
   - frameNumber: 2
     frameDelay: 0
@@ -440,7 +441,7 @@ MonoBehaviour:
     - 0.004406775
     - 0.009518261
     - 0.0001056297
-    - 9.498697E-05
+    - 0.00009498697
     - 0.02274371
     - 0.0007943559
     - 0.01119504
@@ -458,8 +459,8 @@ MonoBehaviour:
     - 0.0003110087
     - 0.003169789
     - 0.007887577
-    - 8.424916E-05
-    - 7.515601E-05
+    - 0.00008424916
+    - 0.00007515601
     - 0.02274592
     - 0.0005752782
     - 0.007908792
@@ -522,7 +523,7 @@ MonoBehaviour:
     - 0.002851969
     - 0.07688095
     - 0.687221
-    - 9.621177E-05
+    - 0.00009621177
     - 0.00106496
     laughterScore: 0
   - frameNumber: 29

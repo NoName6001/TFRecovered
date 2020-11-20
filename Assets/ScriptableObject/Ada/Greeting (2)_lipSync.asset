@@ -2,6 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!114 &11400000
 MonoBehaviour:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -10,7 +11,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 354250b5dc6a14f49b541724e9dd3c37, type: 3}
   m_Name: Greeting (2)_lipSync
-  m_EditorClassIdentifier:
+  m_EditorClassIdentifier: 
   entries:
   - frameNumber: 2
     frameDelay: 0
@@ -1003,7 +1004,7 @@ MonoBehaviour:
   - frameNumber: 54
     frameDelay: 0
     Visemes:
-    - 8.864233E-05
+    - 0.00008864233
     - 0.002737619
     - 0.0006265586
     - 0.004262878
@@ -1022,7 +1023,7 @@ MonoBehaviour:
   - frameNumber: 55
     frameDelay: 0
     Visemes:
-    - 6.254711E-05
+    - 0.00006254711
     - 0.001921661
     - 0.0004513413
     - 0.003003389
@@ -1035,13 +1036,13 @@ MonoBehaviour:
     - 0.003227777
     - 0.899278
     - 0.01756887
-    - 9.468333E-05
+    - 0.00009468333
     - 0.000128786
     laughterScore: 0
   - frameNumber: 56
     frameDelay: 0
     Visemes:
-    - 4.747749E-05
+    - 0.00004747749
     - 0.001767913
     - 0.0006403815
     - 0.002174041
@@ -1054,13 +1055,13 @@ MonoBehaviour:
     - 0.002436162
     - 0.9124973
     - 0.01762562
-    - 6.76087E-05
+    - 0.0000676087
     - 0.0001141404
     laughterScore: 0
   - frameNumber: 57
     frameDelay: 0
     Visemes:
-    - 6.829062E-05
+    - 0.00006829062
     - 0.002405983
     - 0.0009783991
     - 0.00160435
@@ -1073,13 +1074,13 @@ MonoBehaviour:
     - 0.00240798
     - 0.8430763
     - 0.03294201
-    - 5.402882E-05
+    - 0.00005402882
     - 0.0001630394
     laughterScore: 0
   - frameNumber: 58
     frameDelay: 0
     Visemes:
-    - 9.3947E-05
+    - 0.000093947
     - 0.00240658
     - 0.001108721
     - 0.001254273
@@ -1092,7 +1093,7 @@ MonoBehaviour:
     - 0.002659941
     - 0.8364665
     - 0.02807304
-    - 6.162721E-05
+    - 0.00006162721
     - 0.0002540008
     laughterScore: 0
   - frameNumber: 59
@@ -1111,7 +1112,7 @@ MonoBehaviour:
     - 0.002270119
     - 0.8139104
     - 0.02400943
-    - 6.636601E-05
+    - 0.00006636601
     - 0.0003866565
     laughterScore: 0
   - frameNumber: 60

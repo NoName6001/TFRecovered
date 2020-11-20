@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 354250b5dc6a14f49b541724e9dd3c37, type: 3}
-  m_Name: Greeting (1)_lipSync_0
+  m_Name: Greeting (1)_lipSync
   m_EditorClassIdentifier: 
   entries:
   - frameNumber: 2
@@ -162,7 +162,7 @@ MonoBehaviour:
     - 0.02629702
     - 0.1887082
     - 0.001813141
-    - 7.509272E-05
+    - 0.00007509272
     - 0.001862847
     laughterScore: 0
   - frameNumber: 10
@@ -170,7 +170,7 @@ MonoBehaviour:
     Visemes:
     - 0.04950087
     - 0.007017134
-    - 8.464854E-05
+    - 0.00008464854
     - 0.02880258
     - 0.7186378
     - 0.02345928
@@ -181,7 +181,7 @@ MonoBehaviour:
     - 0.01852128
     - 0.1331678
     - 0.001502116
-    - 6.210896E-05
+    - 0.00006210896
     - 0.001309848
     laughterScore: 0
   - frameNumber: 11
@@ -189,7 +189,7 @@ MonoBehaviour:
     Visemes:
     - 0.0348513
     - 0.005301747
-    - 9.501011E-05
+    - 0.00009501011
     - 0.02188376
     - 0.644834
     - 0.1215949
@@ -208,7 +208,7 @@ MonoBehaviour:
     Visemes:
     - 0.02443374
     - 0.003752077
-    - 7.49087E-05
+    - 0.0000749087
     - 0.01544397
     - 0.4535141
     - 0.08542904
@@ -795,7 +795,7 @@ MonoBehaviour:
   - frameNumber: 43
     frameDelay: 0
     Visemes:
-    - 8.661923E-05
+    - 0.00008661923
     - 0.001061538
     - 0.0002080322
     - 0.003123339
@@ -814,7 +814,7 @@ MonoBehaviour:
   - frameNumber: 44
     frameDelay: 0
     Visemes:
-    - 6.73258E-05
+    - 0.0000673258
     - 0.000780943
     - 0.0001648511
     - 0.002362262
@@ -833,7 +833,7 @@ MonoBehaviour:
   - frameNumber: 45
     frameDelay: 0
     Visemes:
-    - 6.441578E-05
+    - 0.00006441578
     - 0.0007444921
     - 0.0002406835
     - 0.00180877

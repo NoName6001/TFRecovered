@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 354250b5dc6a14f49b541724e9dd3c37, type: 3}
-  m_Name: Dislike (5)_lipSync_0
+  m_Name: Dislike (5)_lipSync
   m_EditorClassIdentifier: 
   entries:
   - frameNumber: 2
@@ -41,7 +41,7 @@ MonoBehaviour:
     - 0.002922032
     - 0.001384448
     - 0.0003495669
-    - 1.765523E-05
+    - 0.00001765523
     - 0.0003906274
     - 0.002577428
     - 0.001021262

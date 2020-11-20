@@ -571,8 +571,7 @@ public class AdvancedCollider : MonoBehaviour
 					Vector3 tangent = spline.GetTangent(nearestPointTF);
 					Transform transform2 = new GameObject().transform;
 					transform2.position = position;
-					//transform2.rotation = Quaternion.LookRotation(tangent, spline.GetRotatedUp(nearestPointTF, 0f));
-					transform2.rotation = Quaternion.LookRotation(tangent, spline.GetOrientationUpFast(nearestPointTF));
+					transform2.rotation = Quaternion.LookRotation(tangent, spline.GetRotatedUp(nearestPointTF, 0f));
 					transform2.parent = this.m_girl.m_penis.transform;
 					transform2.localScale = Vector3.one;
 					transform.parent = transform2;
@@ -648,8 +647,7 @@ public class AdvancedCollider : MonoBehaviour
 						Transform transform = skinWrap.boneParents[j];
 						float num9 = skinWrap.baseTFs[j] * this.m_girl.Scale * num8;
 						Vector3 tangentByDistance = spline.GetTangentByDistance(num9);
-						//Vector3 vector3 = spline.GetRotatedUp(num9, 0f);
-						Vector3 vector3 = spline.GetOrientationUpFast(num9);
+						Vector3 vector3 = spline.GetRotatedUp(num9, 0f);
 						float num10 = Vector3.Dot(tangentByDistance, penis2.transform.forward);
 						float num11 = Vector3.Dot(tangentByDistance, penis2.transform.up);
 						if (num10 > 0f)

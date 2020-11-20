@@ -2,6 +2,7 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!114 &11400000
 MonoBehaviour:
+  m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -10,7 +11,7 @@ MonoBehaviour:
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 354250b5dc6a14f49b541724e9dd3c37, type: 3}
   m_Name: Breath (11)_lipSync
-  m_EditorClassIdentifier:
+  m_EditorClassIdentifier: 
   entries:
   - frameNumber: 2
     frameDelay: 0
@@ -579,8 +580,8 @@ MonoBehaviour:
     - 0.001854576
     - 0.004145226
     - 0.0008582302
-    - 9.790915E-05
-    - 9.92272E-05
+    - 0.00009790915
+    - 0.0000992272
     laughterScore: 0
   - frameNumber: 32
     frameDelay: 0
@@ -598,14 +599,14 @@ MonoBehaviour:
     - 0.001383649
     - 0.003023066
     - 0.001158306
-    - 7.444573E-05
+    - 0.00007444573
     - 0.0001025989
     laughterScore: 0
   - frameNumber: 33
     frameDelay: 0
     Visemes:
     - 0.003866014
-    - 9.288284E-05
+    - 0.00009288284
     - 0.005228186
     - 0.0003924867
     - 0.0116982
@@ -617,7 +618,7 @@ MonoBehaviour:
     - 0.001113348
     - 0.002486924
     - 0.001646781
-    - 5.91881E-05
+    - 0.0000591881
     - 0.0001316238
     laughterScore: 0
   - frameNumber: 34
@@ -636,7 +637,7 @@ MonoBehaviour:
     - 0.0010204
     - 0.001902953
     - 0.001505757
-    - 5.891552E-05
+    - 0.00005891552
     - 0.0001645565
     laughterScore: 0
   - frameNumber: 35
@@ -655,7 +656,7 @@ MonoBehaviour:
     - 0.0009144869
     - 0.001487978
     - 0.001358217
-    - 9.140461E-05
+    - 0.00009140461
     - 0.0002690341
     laughterScore: 0
   - frameNumber: 36
