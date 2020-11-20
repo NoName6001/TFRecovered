@@ -7,9 +7,10 @@ This is an attempt at recreating a Unity Project from [True Facials v0.39](https
 By using [UtinyRipper](https://github.com/mafaca/UtinyRipper) on the build, we can recreate a mostly complete unity project.  
 (it generated a Unity 2017 project that has been re-upgraded to the original build version of Unity 2019.3.5f)
 
-However, 2 important things are wrong with the resulting project:
+However, some important things are wrong with the resulting project:
 * C# code contains only inspector fields but no logic
-* Shaders are incompatible, they trigger a syntax error from Unity
+* Shaders are not converted to HLSL, and they trigger a syntax error from Unity
+* Assets with duplicate names get appended `_0`, `_1`, `_2`, etc, resulting in errors when using string names in the code.
 
 To recover the C# code, [DnSpy](https://github.com/dnSpy/dnSpy) seems to be the best option since the original project used Unity Mono Bleeding Edge
 
